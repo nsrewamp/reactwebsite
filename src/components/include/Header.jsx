@@ -7,7 +7,7 @@ function Header() {
 		<>
 			<nav className="navbar navbar-expand-lg navbar-dark bg-secondary px-5">
 				<NavLink exact activeClassName="" className="navbar-brand" to="/">
-					KarBhalaTech
+					NSRewaMp
 				</NavLink>
 				<button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#karBhalaNavbar" aria-controls="karBhalaNavbar" aria-expanded={!isNavCollapsed ? true : false} aria-label="Toggle navigation" onClick={handleNavCollapse}>
 					<span className="navbar-toggler-icon"></span>
